@@ -1,0 +1,7 @@
+name: SnowNeverHurtAnybody
+version: '${project.version}'
+main: me.grovre.snowhurtsnoshovel.SnowHurtsNoShovel
+api-version: 1.18
+authors: [ PoptartFromPluto ]
+description: Why do shovels get hurt by a layer of snow as much as they would digging through meters of dirt? Well say goodbye to that
+website: https://github.com/grovre
